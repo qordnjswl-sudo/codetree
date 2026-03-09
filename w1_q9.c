@@ -3,7 +3,7 @@
 
 int main(void) {
 	char fir, sec;
-	printf("_ A R _");
+	printf("_ A R _\n");
 	printf("Enter any character to make a work that have meaning\n");
 	printf("Enter first and last character: \n");
 	scanf("%c %c", &fir, &sec);
